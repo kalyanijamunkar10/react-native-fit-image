@@ -112,7 +112,7 @@ class FitImage extends Component<IFitImageProps, IFitImageState> {
     this.state = {
       isLoading: false,
       layoutWidth: 0,
-      originalHeight: 0,
+      originalHeight: 150,
       originalWidth: 0,
     };
   }
